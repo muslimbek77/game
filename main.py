@@ -1,5 +1,4 @@
 quiz = {
-    #key:value
     "Python dasturlash tili qachon yaratilgan ? ":"1991",
     "Gvido van Rossum qaysi dasturlash tilini yaratgan ?":"Python",
     "'1.5' Bu qanday ma'lumot turiga tegishli ? ":"str",
